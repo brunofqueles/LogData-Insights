@@ -1,4 +1,7 @@
 # LogData-Insights
+<p align="center">
+  <img src="Logomarca.png" alt="Logomarca da LoggiConnect" width="200">
+</p>
 Projeto completo de simulação e análise de dados logísticos para a startup LoggiConnect, com ETL em Python e modelo de dados SQL Server
 ---
 🚀 Visão Geral do Projeto
